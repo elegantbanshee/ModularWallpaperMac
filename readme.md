@@ -25,3 +25,18 @@ GPL v2
 
 
 [ModularWallaperMacSwift](https://github.com/elegantbanshee/ModularWallpaperMacSwift)
+
+# Building
+
+The following is the directory structure for the folder `/Applications/ModularWallaper.app/Contents/ModularWallaper/`
+
+The app [ModularWallaperMacSwift](https://github.com/elegantbanshee/ModularWallpaperMacSwift) must reside at `/Applications/ModularWallaper.app`.
+
+
+icon.png // Taskbar icon
+
+
+ModularWallaperMac.jar // Compiled jar from [ModularWallaperMac](https://github.com/elegantbanshee/ModularWallpaperMac)
+
+
+timeburnerbold.ttf // Font file
